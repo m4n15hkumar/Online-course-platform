@@ -1,4 +1,8 @@
 # Online-course-platform
+## 📸 Screenshots
+
+### 🖥️ Homepage
+![Homepage](assets/C:\Users\mkays\OneDrive\Pictures\Screenshots 1)
 A full-stack web-based learning platform that allows users to register, log in, update profiles, contact support, and explore available courses and tutors. Built with a focus on structured user experience, backend API architecture, and PostgreSQL database integration.
 
 🚀 Features
