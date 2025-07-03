@@ -2,7 +2,15 @@
 ## 📸 Screenshots
 
 ### 🖥️ Homepage
-![Homepage](assets/C:\Users\mkays\OneDrive\Pictures\Screenshots 1)
+![Screenshot 2025-07-03 151641](https://github.com/user-attachments/assets/d334a59a-3858-46fc-bb3a-19475c4910c7)
+
+### 👨‍🏫 Tutor Listing
+![Screenshot 2025-07-03 152352](https://github.com/user-attachments/assets/ef09cf34-8049-489a-b06b-1c53abbd58be)
+
+### 📄 Registration Page
+![Screenshot 2025-07-03 152425](https://github.com/user-attachments/assets/aefdd36e-a482-45e4-b956-6513c0a0d5d0)
+
+
 A full-stack web-based learning platform that allows users to register, log in, update profiles, contact support, and explore available courses and tutors. Built with a focus on structured user experience, backend API architecture, and PostgreSQL database integration.
 
 🚀 Features
@@ -26,26 +34,6 @@ Database	PostgreSQL
 Security	bcrypt (password hashing)
 Tools	REST API, Postman, pgAdmin
 
-📂 Project Structure
-bash
-Copy code
-/online-course-platform
-│
-├── /frontend              # Contains HTML, CSS files for UI
-│   ├── index.html
-│   ├── teachers.html
-│   └── style.css
-│
-├── /backend               # Node.js + Express backend
-│   ├── routes/
-│   │   ├── auth.js        # Handles registration and login
-│   │   ├── profile.js     # Update profile, become tutor
-│   │   └── contact.js     # Contact support form
-│   ├── db.js              # PostgreSQL DB connection
-│   └── server.js          # Main server setup
-│
-├── .env                   # Environment variables (DB credentials)
-└── package.json           # Dependencies
 🔐 Functionality Overview
 Register/Login: Create account and authenticate securely
 
